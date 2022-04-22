@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444571529479",
+    "firebase_url": "https://mascotas-9341a.firebaseio.com",
+    "project_id": "mascotas-9341a",
+    "storage_bucket": "mascotas-9341a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444571529479:android:d79d4c3b434991a1",
+        "android_client_info": {
+          "package_name": "com.DigitalEmpathyGames.mascotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444571529479-s3e6op5vq8ajobt1oubatmc9kt2mtq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGh7csFZScWSEVjE0X3_KNCdL9mMWdIXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

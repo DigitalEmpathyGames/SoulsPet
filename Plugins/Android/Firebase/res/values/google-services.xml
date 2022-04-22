@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://mascotas-9341a.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">444571529479</string>
+  <string name="google_storage_bucket" translatable="false">mascotas-9341a.appspot.com</string>
+  <string name="project_id" translatable="false">mascotas-9341a</string>
+  <string name="google_api_key" translatable="false">AIzaSyBGh7csFZScWSEVjE0X3_KNCdL9mMWdIXs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGh7csFZScWSEVjE0X3_KNCdL9mMWdIXs</string>
+  <string name="google_app_id" translatable="false">1:444571529479:android:d79d4c3b434991a1</string>
+  <string name="default_web_client_id" translatable="false">444571529479-s3e6op5vq8ajobt1oubatmc9kt2mtq9h.apps.googleusercontent.com</string>
+</resources>
